@@ -1,3 +1,3 @@
-<div>
-  <h1 style="text-align: center;">My Web Scraper</h1>
+<div align="center">
+  <h1>My Web Scraper</h1>
 </div>
